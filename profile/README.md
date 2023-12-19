@@ -12,7 +12,7 @@ MiniAiLive’s AI-powered eKYC solution offers real-time, reliable identity veri
 > SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
 > 
 
-![fist page logo](https://github.com/MiniAiLive/.github/assets/136824647/32317ada-45a0-4d08-9f47-3bf340474b9b)
+![250112682-32317ada-45a0-4d08-9f47-3bf340474b9b](https://github.com/MiniAiLive/.github/assets/153516004/a8ce20ab-baf1-46dd-af71-99ef5708cf1e)
 
 ## About MiniAiLive
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
