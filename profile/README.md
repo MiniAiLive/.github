@@ -14,6 +14,14 @@ MiniAiLive’s AI-powered eKYC solution offers real-time, reliable identity veri
 
 ![250112682-32317ada-45a0-4d08-9f47-3bf340474b9b](https://github.com/MiniAiLive/.github/assets/153516004/a8ce20ab-baf1-46dd-af71-99ef5708cf1e)
 
+## Enjoy APP on Google Play
+<a href="https://play.google.com/store/apps/dev?id=5831076207730531667" target="_blank">
+  <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
+</a>
+
+## Try Online Demo
+Please visit our Face API Web Demo here. https://minivision.live
+
 ## About MiniAiLive
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
 
