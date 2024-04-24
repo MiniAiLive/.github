@@ -1,5 +1,5 @@
 <div align="center">
-   <h1> Your Trusted Partner in Advanced Face Recognition Solutions </h1>
+   <h1> Your Trusted Partner in Advanced Face Recognition, Face Liveness Detection, ID Document Recognition Solutions </h1>
    <img src=https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png alt="MiniAiLive Logo"
    width="300">
 </div>
@@ -36,7 +36,10 @@ No | Project | Feature
 7 | [MiniAI-Face-LivenessDetection-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-ServerSDK) | 3D Face Passive Liveness
 8 | [MiniAI-Face-Matching-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK) | 1:1 Face Matching
 9 | [MiniAI-Face-Matching-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-Matching-iOS-SDK) | 1:1 Face Matching
-10 | [MiniAI-Face-Attributes-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Attributes-AndroidSDK) | Face Attributes
+10 | [MiniAI-Face-Matching-WindowsDemo](https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo) | 1:1 Face Matching
+11 | [MiniAI-Face-Attributes-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Attributes-AndroidSDK) | Face Attributes
+12 | [MiniAI-IDCardRecognition-Android-SDK](https://github.com/MiniAiLive/MiniAI-IDCardRecognition-Android-SDK) | ID Document Recognition
+13 | [MiniAI-IDCardRecognition-iOS-SDK](https://github.com/MiniAiLive/MiniAI-IDCardRecognition-iOS-SDK) | ID Document Recognition
 
 ## About MiniAiLive
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
