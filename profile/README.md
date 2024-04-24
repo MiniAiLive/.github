@@ -21,6 +21,22 @@ MiniAiLive’s AI-powered eKYC solution offers real-time, reliable identity veri
 
 ## Try Online Demo
 Please visit our Face API Web Demo here. https://demo.miniai.live
+<a href="https://demo.miniai.live" target="_blank">
+  <img alt="" src="https://github.com/MiniAiLive/.github/assets/127708602/76a12888-a83d-4454-86bd-bcc8ef025ab5">
+</a>
+
+No | Project | Feature
+---|---|---|
+1 | [MiniAI-Face-Recognition-LivenessDetection-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-LivenessDetection-AndroidSDK) | Face Matching, 3D Face Passive Liveness
+2 | [MiniAI-Face-Recognition-LivenessDetection-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-LivenessDetection-iOS-SDK) | Face Matching, 3D Face Passive Liveness
+3 | [MiniAI-Face-Recognition-LivenessDetection-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-LivenessDetection-ServerSDK) | Face Matching, 3D Face Passive Liveness
+4 | [MiniAI-Face-Recognition-LivenessDetection-WindowsSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-LivenessDetection-WindowsSDK) | Face Matching, 3D Face Passive Liveness
+5 | [MiniAI-Face-LivenessDetection-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-AndroidSDK) | 3D Face Passive Liveness
+6 | [MiniAI-Face-LivenessDetection-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-iOS-SDK) | 3D Face Passive Liveness
+7 | [MiniAI-Face-LivenessDetection-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-ServerSDK) | 3D Face Passive Liveness
+8 | [MiniAI-Face-Matching-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK) | 1:1 Face Matching
+9 | [MiniAI-Face-Matching-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-Matching-iOS-SDK) | 1:1 Face Matching
+10 | [MiniAI-Face-Attributes-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Attributes-AndroidSDK) | Face Attributes
 
 ## About MiniAiLive
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
