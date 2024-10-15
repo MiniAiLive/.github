@@ -36,8 +36,11 @@ MiniAiLive's AI-powered eKYC solution offers real-time, reliable identity verifi
 </div>
 
 ## Introduction
-https://github.com/user-attachments/assets/ee7a235f-6feb-417d-a3f6-05119217581d
-<br>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=a8Ar4q1sGNo">
+    <img src="https://img.youtube.com/vi/a8Ar4q1sGNo/hqdefault.jpg" alt="My Awesome Video" width="600px">
+  </a>
+</div>
 
 ## Our Products
 No | Project | Feature
