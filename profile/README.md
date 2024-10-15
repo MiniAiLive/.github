@@ -1,29 +1,43 @@
 <div align="center">
-   <h1> Your Trusted Partner in Advanced Face Recognition, LivenessDetection, ID Document Recognition, and ID Document LivenessDetection Solutions for eKYC </h1>
+   <h1> Face Recognition, LivenessDetection, ID Document Recognition, and ID Document LivenessDetection Solutions for eKYC </h1>
    <img src=https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png alt="MiniAiLive Logo"
    width="300">
 </div>
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
-MiniAiLive’s AI-powered eKYC solution offers real-time, reliable identity verification to combat sophisticated identity fraud. We’re here to help you build trust in digital world.
+MiniAiLive, a  tech company, is a biometric technology company on a mission to deliver a new generation of “zero-effort” identity verification and authentication. Our vision is a passwordless world where users don't have to sacrifice security to gain convenience. Imagine the ability to access personal information and perform transactions simply by using your voice or face. Through the science of biometrics and advances in AI, we're making this vision a reality.
 
-> **Note**
->
-> SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
-> 
+MiniAiLive is a provider of Touchless Biometrics Authentication, ID verification solutions. We offer strong security solutions with cutting-edge technologies for facial recognition, liveness detection, and ID document recognition. We also ensure that these solutions seamlessly integrate with our clients' existing systems.
+
+MiniAiLive's AI-powered eKYC solution offers real-time, reliable identity verification to combat sophisticated identity fraud. We're here to help you build trust in digital world.
+
+> **Note**<br>
+> - SDK is fully on-premise, processing all happens on hosting server and no data leaves server.<br>
+> - Compact Library-type SDK for easy on-premise installation.<br>
+> - Simple and comprehensive API.<br>
+> - Licensing model based on the actual use of the system.
 
 ![250112682-32317ada-45a0-4d08-9f47-3bf340474b9b](https://github.com/MiniAiLive/.github/assets/153516004/a8ce20ab-baf1-46dd-af71-99ef5708cf1e)
 
-## Enjoy APP on Google Play
-<a href="https://play.google.com/store/apps/dev?id=5831076207730531667" target="_blank">
-  <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
-</a>
+## Face & IDSDK Online Demo, Resources
+<div style="display: flex; justify-content: center; align-items: center;"> 
+   <table style="text-align: center;">
+      <tr>
+         <td style="text-align: center; vertical-align: middle;"><a href="https://github.com/MiniAiLive"><img src="https://miniai.live/wp-content/uploads/2024/10/github-300x95.png" style="height: 80px; margin-right: 5px;" title="GITHUB"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://huggingface.co/MiniAiLive"><img src="https://miniai.live/wp-content/uploads/2024/10/huggingface-300x88.png" style="height: 80px; margin-right: 5px;" title="HuggingFace"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://demo.miniai.live"><img src="https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg" style="height: 80px; margin-right: 5px;" title="Gradio"/></a></td> 
+      </tr> 
+      <tr>
+         <td style="text-align: center; vertical-align: middle;"><a href="https://docs.miniai.live/"><img src="https://miniai.live/wp-content/uploads/2024/10/a-300x70.png" style="height: 80px; margin-right: 5px;" title="Documentation"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://www.youtube.com/@miniailive"><img src="https://miniai.live/wp-content/uploads/2024/10/Untitled-1-300x70.png" style="height: 80px; margin-right: 5px;" title="Youtube"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://play.google.com/store/apps/dev?id=5831076207730531667"><img src="https://miniai.live/wp-content/uploads/2024/10/googleplay-300x62.png" style="height: 80px; margin-right: 5px;" title="Google Play"/></a></td>
+      </tr>
+   </table>
+</div>
 
-## Try Online Demo
-Please visit our Face API Web Demo here. https://demo.miniai.live
-<a href="https://demo.miniai.live" target="_blank">
-  <img alt="" src="https://github.com/MiniAiLive/FaceAttributes-Android-SDK/assets/127708602/c47b5628-1d42-406a-a11d-ffb2e59e7b27">
-</a>
+## Introduction
+https://github.com/user-attachments/assets/ee7a235f-6feb-417d-a3f6-05119217581d
+<br>
 
 ## Our Products
 No | Project | Feature
@@ -46,6 +60,7 @@ No | Project | Feature
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
 
 ## Contact US
+Contact us for our on-premise Face SDK and ID Document SDK deployment
 For any inquiries or questions, please [Contact US](https://www.miniai.live/contact/)
 
 <p align="center">
